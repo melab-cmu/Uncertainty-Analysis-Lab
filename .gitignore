@@ -1,0 +1,37 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+.venv/
+venv/
+
+# -------------------------
+# Jupyter
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# OS / Editor
+# -------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# -------------------------
+# Data science artifacts
+# -------------------------
+# Intermediate or regenerated analysis outputs
+reports/figures/
+reports/tmp/
+
+# -------------------------
+# Comment OUT this line if tables are required deliverables
+# -------------------------
+# reports/tables/*.csv
